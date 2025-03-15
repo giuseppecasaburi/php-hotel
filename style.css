@@ -42,3 +42,28 @@ select {
     margin: 0 auto;
     border: 2px solid black;
 }
+
+a {
+    text-decoration: none;
+    color: inherit;
+    padding: 10px 20px;
+    background-color: lightblue;
+    border-radius: 50px;
+    margin: 20px auto 0;
+    width: 200px;
+    display: block;
+    text-align: center;
+}
+
+.link {
+    color: inherit;
+    padding: 10px 20px;
+    background-color: lightblue;
+    border: none;
+    border-radius: 50px;
+    margin: 20px auto 0;
+    width: 200px;
+    display: block;
+    text-align: center;
+    cursor: pointer;
+}

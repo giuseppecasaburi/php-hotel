@@ -31,7 +31,7 @@
                     <option value="false">Senza parcheggio
                 </select>
 
-                <button type="submit">Avvia la ricerca</button>
+                <button type="submit" class="link">Avvia la ricerca</button>
             </form>
         </div>
     </div>

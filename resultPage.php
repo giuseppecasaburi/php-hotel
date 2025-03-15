@@ -92,6 +92,7 @@
             </tbody>
         </table>
     </div>
+    <a href="./homePage.php">Torna alla ricerca</a>
 </body>
 
 </html>
