@@ -1,0 +1,44 @@
+.container {
+    width: 80%;
+    margin: 100px auto;
+}
+
+h1,
+h3 {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 50px;
+}
+
+.container-form {
+    width: 40%;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px 0;
+    padding: 20px;
+}
+
+label {
+    font-size: 1.2rem;
+}
+
+select {
+    width: 50%;
+}
+
+.result-title {
+    margin-top: 100px;
+}
+
+.table {
+    width: 50%;
+    margin: 0 auto;
+    border: 2px solid black;
+}
